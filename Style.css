@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(202, 247, 150);
+}
+#divFeria{
+    background-color: rgb(0, 0, 0);
+}
+#divFeria ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#divFeria ul li{
+    display: inline-block;
+}
+#divFeria ul li a{
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    padding: 20px 80px;
+    text-decoration: none;
+}
+#divFeria2{
+    background-color: rgb(0, 0, 0);
+}
+#divFeria2 ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#divFeria2 ul li{
+    display: inline-block;
+}
+#divFeria2 ul li a{
+    color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    padding: 20px 80px;
+    text-decoration: none;
+}
+.Conecta{
+    text-align: justify;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+.Conecta2{
+    color: rgb(238, 238, 175);
+}
+.Conecta3{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellow;
+    background-color: black;
+    margin: 30px;
+    padding: 20px 20px;
+}
+.Conecta4{
+    text-align: justify;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellow;
+    background-color: black;
+    padding: 20px 20px;
+}
+.Conecta5{
+    text-align: center;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
